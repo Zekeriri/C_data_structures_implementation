@@ -1,2 +1,3 @@
-# C_data_structures_implementation
-Implementing Data Structures in the C Programming Language
+# Implementing Data Structures in the C Programming Language
+# Implementation of the Eight Major Sorting Algorithms
+
